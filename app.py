@@ -1,1 +1,1 @@
-rff
+print("Hello world")
